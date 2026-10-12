@@ -1,5 +1,4 @@
 # png2pdf
 Test project...
 
-![Kafka](files/kafka.pdf)
-
+![[files/kafka.pdf]]
