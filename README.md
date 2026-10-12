@@ -13,4 +13,8 @@ Test project...
 
 [![KAFKA](tn/Kafka-tn.png)](files/kafka.pdf)
 
+4. [Grafana-Mit-Lokia](files/Grafana-mit-Loki.pdf)
+
+[![KAFKA](tn/Grafana-mit-Loki-tn.png)](files/Grafana-mit-Loki.pdf)
+
 
