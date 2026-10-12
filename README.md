@@ -7,7 +7,7 @@ Test project...
 
 2. [Consumer-01](files/consumer-app-01.pdf)
 
-[![Consumer-01](tn/consumer-app-01.png)](files/consumer-app-01.pdf)
+[![Consumer-01](tn/consumer-app-01-tn.png)](files/consumer-app-01.pdf)
 
 3. [Kafka](files/kafka.pdf)
 
